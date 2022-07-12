@@ -1,0 +1,73 @@
+Answers 1 To 72.....
+1. Option A
+2.Option A ( Kumar , Niraj , Verma )
+3.Option C ( 10 20 20 ) 
+4.Option B
+5.Option A
+6.Option C 
+7.Option D
+8.Option A
+9.Option D ( 12 13 21 23 )
+10.:- Option B
+11.Option B (compilation error)
+12.Option C ( False False True False )
+13.Option A (10 ,32 )
+14.Option C (True)
+15.Option B(Overriding)
+16.Option A ( 1 , 2  Red Blue) 
+17.Option D (throw a runtime exception)
+18.Option A (maria  , dick , all )	 		
+19.Option C  (Not Equal )
+20.Option D
+21.Option A (False )
+22.Option C ( Compile Successfully , But Output Will Not Show) 
+23.Option A (output:- 3)
+24.Option C (output:- 0)
+25.Option D 
+26.Option A ( Compile Successfully , But Output Will Not Show) 
+27.Option A
+28.Option A (DateFormat class is used to format dates)
+29.Option A (output:- 6)
+30.Option C ( output : 1224 )
+31.Option C 
+32.Option C ( Compile Successfully , But Output Will Not Show)
+33.Option C ( Compile Successfully , But Output Will Not Show)
+34.Option A ( calculating run method  )
+35.Option C 
+36.Option B (compilation error)
+37.Option D (runtime exception with warning message)
+38.Option A (display the current date and time)
+39.Option A (Show The current date and time, in a formatted way )
+40.Option D
+41.Option D (Show The current date and time, in a formatted way )
+42.Option D
+43.Option B (compilation error)
+44.Option B (compilation error)
+45.Option C
+46.Option A (March)
+47.Option A (Hello Niraj )
+48.Option D
+49.Option B (compilation error)
+50.Option A (Output :- Arithmetic Exception is thrown )
+51.Option A
+52.Option A ( true false true )
+53.Option A ( hi ) 
+54.Option B
+55.Option B
+56.Option D
+57.Option A
+58.Option B
+59.Option c ( Not Sure )
+60.Option A [public method equals()]
+61.Option C ( True False )
+62.Option A
+63.Option B (compilation error)
+64.Option B (compilation error)
+65.Option A
+66.Option D (throw a runtime exception)
+67.Option A ( Output :- Equal )
+68.Option C ( Compile Successfully , But Output Will Not Show)
+69.Option D (Output :- 15)
+70.Option D ( Compile Successfully , But Output Will Not Show)
+71.Option A ( Compile time Error )
+72.Option A ( Compile time Error )
